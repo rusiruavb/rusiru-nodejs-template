@@ -5,3 +5,5 @@ This is my Node JS template. You can also use this template as a bootstrap to yo
 - Run `npm install` or `npm i` to install the dependencies
 - Run `npm run dev` to start the project
 - Then project will start on the PORT 9096. You can type `localhost:9096` on your browser to test whether the application works.
+
+### Happy Coding :wink::rocket:
